@@ -1,0 +1,2 @@
+# tentmap
+The tent map has similar properties to the logistic map: it is continuous and has a non periodic behavior. It falls in the category of the non linear discrete dynamical systems, although its graphic is made from two straight lines. This allows its analysis to be simpler that that of other dynamical systems. This said, the systems can have a very complex behavior, even chaotic. Plus, its Lyapunov exponent is positive.
